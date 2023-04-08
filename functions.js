@@ -37,11 +37,11 @@ firstLetterName("Vandana");
 //Call 1 with even number
 //Should output to console: "The number 4 is divisible by 2: true"
 let num = 4;
-console.log("The number" + num + "is divisible by 2: " + divisibleByTwo(num));
+console.log("The number " + num + "is divisible by 2: " + divisibleByTwo(num));
 //Call 2 with odd number
 //Should output to console: "The number 7 is divisible by 2: false"
 num = 7;
-console.log("The number" + num + "is divisible by 2: " + divisibleByTwo(num));
+console.log("The number " + num + "is divisible by 2: " + divisibleByTwo(num));
 
 //Should output to console: 89
 let array = [2, 3, 46, 57, 3, 89, 87, 45];
